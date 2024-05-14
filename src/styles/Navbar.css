@@ -1,0 +1,21 @@
+.custom-navbar {
+  padding: 10px 20px 10px 20px; /* Add padding to the navbar */
+}
+
+.navbar-nav .nav-link {
+  font-size: 20px; /* Increase font size of navbar links */
+}
+
+.navbar-brand{
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.nav-item{
+  margin: 0px 10px 0px 10px;
+}
+
+.navbar-brand{
+  display: flex;
+  align-items: center;
+}
